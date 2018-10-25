@@ -1,2 +1,2 @@
 # freehycon_web
-dashboard
+freehycon web
